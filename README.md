@@ -28,6 +28,11 @@ If the printed instructions go over 28 lines, a message will be displayed to ask
            
 Also, if a client wishes to try another memory location, a message would be printed on the screen, and the process of entering starting and ending address as explained above will be processed.
 
+The diagram below shows how to decode algorithm of an oppcode:
+<img src="Decode-alg.jpg">
+<p></p>
+<img src="I.O-flowchart.jpg">
+
 <ul>Effective Addressing Modes:
 <li>Data Register Direct</li>
 <li>Address Register Direct</li>
@@ -85,3 +90,13 @@ Input
 <li>New Region (y/n) – formatted as follows:</li>
 <ul><li>Only y/Y or q/Q char followed by enter</ul></li>
 </ul>
+
+<h2>Screenshots:</h2>
+Here are the screenshots of the program. Notice that once the program is run and quit successfully, the system will displayed the cycles and the registers that were afffected.
+<img src="1.png">
+<img src="2.png">
+<img src="3.png">
+<img src="4.png">
+<img src="5.png">
+<img src="6.png">
+<img src="7.png">
