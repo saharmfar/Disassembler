@@ -93,7 +93,7 @@ Input
 
 <h2>Screenshots:</h2>
 Here are the screenshots of the program. Notice that once the program is run and quit successfully, the system will displayed the cycles and the registers that were afffected.
-<img src="1.png">
+<img src="1.PNG">
 <img src="2.png">
 <img src="3.png">
 <img src="4.png">
